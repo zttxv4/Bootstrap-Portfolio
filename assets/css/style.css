@@ -243,4 +243,8 @@ input[type=submit] {
   .main-section {
     width: 100%;
   }
+
+  nav {
+    float: left;
+  }
 }
